@@ -43,7 +43,7 @@ class Graph:
 
                      #print(minDistance)
                      #print(j)
-                     #print(nxtLocation)
+                     ##print(nxtLocation)
 
             currLocation = nxtLocation
 
